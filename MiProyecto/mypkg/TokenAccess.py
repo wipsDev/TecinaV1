@@ -3,7 +3,7 @@
 
 
 def bot():
-	return "374102852:AAE80V_Qo0UrKdNcL1dGLd-m5sGP8FtyBBk"
+	return "********"
 	
 def MiUser():
-	return "254701730"
+	return "********"
