@@ -1,0 +1,3 @@
+pygame==1.9.2a0
+pyTelegramBotAPI==2.1.5
+python-telegram-bot==5.0.0

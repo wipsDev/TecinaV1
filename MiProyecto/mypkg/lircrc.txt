@@ -1,0 +1,109 @@
+#para modificar el archivo sudo nano ~/.lircrc
+#para actualizar la base sudo cp ~/.lircrc /etc/lirc/lircrc
+
+
+# ~/.lircrc
+#
+# button: Es la forma en la que vamos a guardar los diferentes botones
+# prog:   Este va a ser el driver del mando a distancia
+# config: Disenado por edgar hernandez edgar.hdezm@gmail.com contact me
+
+# Apple Remote
+# KEY_UP
+# KEY_DOWN
+# KEY_LEFT
+# KEY_RIGHT
+# KEY_OK
+# KEY_MENU
+# KEY_PLAYPAUSE
+
+begin
+    button = KEY_UP
+    prog = appleremote
+    config = KEY_UP
+end
+
+begin
+    button = KEY_DOWN
+    prog = appleremote
+    config = KEY_DOWN
+end
+
+begin
+    button = KEY_LEFT
+    prog = appleremote
+    config = KEY_LEFT
+end
+
+begin
+    button = KEY_RIGHT
+    prog = appleremote
+    config = KEY_RIGHT
+end
+
+begin
+    button = KEY_0
+    prog = appleremote
+    config = KEY_0
+end
+
+begin
+    button = KEY_1
+    prog = appleremote
+    config = KEY_1
+end
+
+begin
+    button = KEY_2
+    prog = appleremote
+    config = KEY_2
+end
+begin
+    button = KEY_3
+    prog = appleremote
+    config = KEY_3
+end
+begin
+    button = KEY_4
+    prog = appleremote
+    config = KEY_4
+end
+begin
+    button = KEY_5
+    prog = appleremote
+    config = KEY_5
+end
+begin
+    button = KEY_6
+    prog = appleremote
+    config = KEY_6
+end
+begin
+    button = KEY_7
+    prog = appleremote
+    config = KEY_7
+end
+begin
+    button = KEY_8
+    prog = appleremote
+    config = KEY_8
+end
+
+begin
+    button = KEY_9
+    prog = appleremote
+    config = KEY_9
+end
+
+begin
+    button = KEY_ENTER
+    prog = appleremote
+    config = KEY_ENTER
+end
+
+
+
+
+
+
+
